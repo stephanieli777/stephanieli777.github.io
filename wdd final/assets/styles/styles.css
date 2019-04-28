@@ -15,6 +15,7 @@
 }
 
 #picture-0  {
+  animation: shake 2s;
   animation-duration: infinite;
   animation-iteration-count: infinite;
 }
